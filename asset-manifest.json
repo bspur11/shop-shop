@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shop-shop/static/css/main.b38a3b8e.chunk.css",
+    "main.js": "/shop-shop/static/js/main.87bbeb85.chunk.js",
+    "main.js.map": "/shop-shop/static/js/main.87bbeb85.chunk.js.map",
+    "runtime-main.js": "/shop-shop/static/js/runtime-main.e6fc2988.js",
+    "runtime-main.js.map": "/shop-shop/static/js/runtime-main.e6fc2988.js.map",
+    "static/js/2.ffb89eef.chunk.js": "/shop-shop/static/js/2.ffb89eef.chunk.js",
+    "static/js/2.ffb89eef.chunk.js.map": "/shop-shop/static/js/2.ffb89eef.chunk.js.map",
+    "index.html": "/shop-shop/index.html",
+    "precache-manifest.fcbde44bb506c28bf0237457b38d7d46.js": "/shop-shop/precache-manifest.fcbde44bb506c28bf0237457b38d7d46.js",
+    "service-worker.js": "/shop-shop/service-worker.js",
+    "static/css/main.b38a3b8e.chunk.css.map": "/shop-shop/static/css/main.b38a3b8e.chunk.css.map",
+    "static/js/2.ffb89eef.chunk.js.LICENSE.txt": "/shop-shop/static/js/2.ffb89eef.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/shop-shop/static/media/spinner.ab497855.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6fc2988.js",
+    "static/js/2.ffb89eef.chunk.js",
+    "static/css/main.b38a3b8e.chunk.css",
+    "static/js/main.87bbeb85.chunk.js"
+  ]
+}
